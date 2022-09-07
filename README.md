@@ -1,4 +1,8 @@
-### Hi there 👋
+- 🔭 I’m currently working on projects
+- 🌱 I’m currently learning Java, Springboot and MySQL
+- 👯 I’m looking to collaborate on projects
+- 🤔 I’m looking for help with projects (?)
+- 😄 Pronouns: she/her
 
 <!--
 **ArielTSP/ArielTSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
