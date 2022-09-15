@@ -1,8 +1,10 @@
+<div align="center">
 - 🔭 I’m currently working on projects with Java & others
 - 👯 I’m looking to collaborate on Java projects
 - 🌱 Love Nature, Science and Life
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: prejudice is against science
+</div>
 
 <!--
 **ArielTSP/ArielTSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
